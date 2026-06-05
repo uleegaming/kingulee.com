@@ -16,9 +16,11 @@
   weight = 10
   pageRef = "posts"
   
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  pre = "user-account"
+  name = "Resume"
+  pageRef = "resume"
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
