@@ -25,3 +25,10 @@ showShareLinks: false
 ---
 
 Menggeluti dunia teknologi dan pengembangan perangkat Lunak. Memiliki pengalaman programming, pengembangan web, dan sertifikasi yang relevan. Keterampilan komunikasi yang baik, Berpengalaman di bisnis kecil.
+
+## Keterampilan
+
+{{< alert "code" >}}
+Microsoft Office (word, excel & point), Google Workspace (document, spreadsheet, slides, calendar),
+Editing Apps (Canva, dll), PHP, Pyhton, SQL, HTML, Figma
+{{< /alert >}}

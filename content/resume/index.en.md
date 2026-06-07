@@ -25,3 +25,10 @@ showShareLinks: false
 ---
 
 Passionate about the world of technology and software development. Experienced in programming, web development, and hold relevant certifications. Good communication skills, experienced in small businesses.
+
+## Skills
+
+{{< alert "code" >}}
+Microsoft Office (word, excel & point), Google Workspace (document, spreadsheet, slides, calendar),
+Editing Apps (Canva, dll), PHP, Pyhton, SQL, HTML, Figma
+{{< /alert >}}
