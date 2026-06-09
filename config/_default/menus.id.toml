@@ -11,6 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  pre = "briefcase"
+  name = "Portfolio"
+  weight = 10
+  pageRef = "portfolio"
+  
+[[main]]
   pre = "newspaper-clipping"
   name = "Blog"
   weight = 10
