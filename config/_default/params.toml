@@ -69,8 +69,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
@@ -148,13 +148,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCLJwU7IpXGTWHbmL3IWOhOhwEX3ecy3Ns"
+  authDomain = "azriel-2702c.firebaseapp.com"
+  projectId = "azriel-2702c"
+  storageBucket = "azriel-2702c.firebasestorage.app"
+  messagingSenderId = "419035744893"
+  appId = "1:419035744893:web:9b320f7f67dc4f5145ff14"
+  measurementId = "G-3G8X0YWDKH"
 
 [fathomAnalytics]
   # site = "ABC12345"
@@ -179,7 +179,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # globalWidgetPosition = "right"
 
 [verification]
-  # google = ""
+  google = "G-3G8X0YWDKH"
   # bing = ""
   # pinterest = ""
   # yandex = ""
