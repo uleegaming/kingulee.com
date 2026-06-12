@@ -128,3 +128,13 @@ gaun, kemeja dan beberapa pakaian lainnya. Serta mendapatkan beberapa sertifikat
 ## Bahasa
 
 Indonesia (Native), Inggris (Intermediate)
+
+## Kontak
+
+{{< figure
+    src="barcode-fatya.jpg"
+    class="float-left w-32 mr-5 mb-2 rounded-lg bg-white p-2"
+    alt="QR Code"
+    >}}
+
+Untuk pertanyaan bisnis, silakan hubungi saya di [LinkedIn](https://www.linkedin.com/in/fatya-restu-899790254/) atau kirim pesan kepada saya di [Email](mailto:hello@your_domain.com). Anda juga dapat menemukan saya di berbagai platform media sosial utama.

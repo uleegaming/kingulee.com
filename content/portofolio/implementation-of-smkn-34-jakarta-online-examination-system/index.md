@@ -49,8 +49,6 @@ Sertifikat penghargaan ini menjadi bukti bahwa kami telah berhasil merampungkan 
 
 [elearningsmkn34jkt.sch.id](https://elearningsmkn34jkt.sch.id/) `(Aktif)`
 
-{{< github repo="0zunu/Destiny.Industries" showThumbnail=true >}}
-
 {{< gallery >}}
 <img src="docs.jpg" class="grid-w33">
 <img src="docs1.jpg" class="grid-w33">
