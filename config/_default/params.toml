@@ -180,7 +180,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [verification]
   # google = "G-HQG2RCH6PT"
-  # bing = ""
+  bing = "D345934765CB447CB613A54F325FFFBA"
   # pinterest = ""
   # yandex = ""
   # fediverse = ""
