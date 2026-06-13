@@ -148,13 +148,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyBKXpaTbKOWbZam0X8GSg8xtjWB3ilupHk"
-  authDomain = "fatya-ba0df.firebaseapp.com"
-  projectId = "fatya-ba0df"
-  storageBucket = "fatya-ba0df.firebasestorage.app"
-  messagingSenderId = "203394925186"
-  appId = "1:203394925186:web:9764b42a18e32d9c5d2a9b"
-  measurementId = "G-HQG2RCH6PT"
+  # apiKey = "AIzaSyBKXpaTbKOWbZam0X8GSg8xtjWB3ilupHk"
+  # authDomain = "fatya-ba0df.firebaseapp.com"
+  # projectId = "fatya-ba0df"
+  # storageBucket = "fatya-ba0df.firebasestorage.app"
+  # messagingSenderId = "203394925186"
+  # appId = "1:203394925186:web:9764b42a18e32d9c5d2a9b"
+  # measurementId = "G-HQG2RCH6PT"
 
 [fathomAnalytics]
   # site = "ABC12345"
@@ -179,7 +179,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # globalWidgetPosition = "right"
 
 [verification]
-  google = "G-HQG2RCH6PT"
+  # google = "G-HQG2RCH6PT"
   # bing = ""
   # pinterest = ""
   # yandex = ""
