@@ -38,6 +38,10 @@ googleAnalytics = "G-HQG2RCH6PT"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[services]
+  [services.disqus]
+    shortname = 'julius-ulee-github-io'
+    
 [related]
   threshold = 0
   toLower = false
