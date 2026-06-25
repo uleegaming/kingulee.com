@@ -40,7 +40,7 @@ googleAnalytics = "G-HQG2RCH6PT"
 
 [services]
   [services.disqus]
-    shortname = 'azriel-id'
+    shortname = 'julius-ulee-github-io'
     
 [related]
   threshold = 0
