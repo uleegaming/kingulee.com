@@ -187,8 +187,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # fediverse = ""
 
 [rssnext]
-  # feedId = ""
-  # userId = ""
+  feedId = ""
+  userId = "1184646427720941568"
 
 [advertisement]
   adsense = "ca-pub-4055747469621012"
