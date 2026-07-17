@@ -28,5 +28,3 @@ Thank you for reaching out. Your message has been sent successfully.
 I will get back to you as soon as possible.
 
 {{< button href="/contact/" >}}Back to contact form{{< /button >}}
-
-For urgent matters, you can also reach me through other contact channels listed on the site.
