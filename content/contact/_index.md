@@ -46,5 +46,7 @@ Silakan gunakan formulir di bawah ini jika Anda ingin menghubungi saya terkait p
     </label>
     <textarea class="shadow appearance-none border border-red-500 rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="message" name="message" type="message" placeholder="Hello World!" rows=5></textarea>
 </div>
-<button type="submit">Send</button>
+{{< button type"submit" >}}
+Send
+{{< /button >}}
 </form>
