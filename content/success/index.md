@@ -1,7 +1,7 @@
 ---
-title: "Contact sent"
+title: "Pesan terkirim"
 draft: false
-description: "Your message has been sent successfully."
+description: "Pesan Anda telah berhasil dikirim."
 type: "page"
 layoutBackgroundHeaderSpace: false
 showViews: false
@@ -23,8 +23,21 @@ showAuthor: false
 showShareLinks: false
 ---
 
-Thank you for reaching out. Your message has been sent successfully.
+Terima kasih telah menghubungi saya. Pesan Anda telah berhasil dikirim.
 
-I will get back to you as soon as possible.
+Saya akan membalas pesan Anda sesegera mungkin.
 
-{{< button href="/contact/" >}}Back to contact form{{< /button >}}
+{{< button href="/contact/" >}}Kembali ke formulir kontak{{< /button >}}
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const allowed = sessionStorage.getItem('contact-success-access');
+
+  if (allowed !== 'true') {
+    window.location.replace('/contact/');
+    return;
+  }
+
+  sessionStorage.removeItem('contact-success-access');
+});
+</script>
