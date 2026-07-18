@@ -1,1 +1,0 @@
-Lulus dari sekolah kejuruan pariwisata di bidang Manajemen Fashion dengan minat di industri fashion dan juga kewirausahaan. Lulus dengan nilai yang baik. Memiliki pengalaman bekerja dan beberapa program selama 1 tahun di beberapa perusahaan dengan mampu mengasah kemampuan di bidang teknologi serta asisten dan admin di bidang administrasi.
